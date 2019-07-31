@@ -3,3 +3,4 @@ features:
 - mongoose
 - restify
 - bcrypt
+- jwt
